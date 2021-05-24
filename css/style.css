@@ -86,6 +86,15 @@ header nav li a{
 }
 /*=============hero part ends===================*/
 
+/*=========================for border=====================*/
+.border{
+    border-left: 1px solid rgba(61, 61, 61, 0.63);
+    width: 1%;
+    padding: 20px 0;
+    margin: 100px auto;
+}
+/*=========================for border=====================*/
+
 /*========================main content starts================*/
 .main-content{
     width: 95%;
@@ -118,7 +127,7 @@ header nav li a{
 }
 
 .main-content img{
-    box-shadow: 0 15px 20px rgba(171, 171, 171, 0.67);
+    box-shadow: 5px 15px 20px rgba(171, 171, 171, 0.67);
 }
 .main-content .text{
     margin: auto;
@@ -183,7 +192,7 @@ header nav li a{
 
 .feature .feature-content h3{
     margin: 10px 0;
-    font-size: 20px
+    font-size: 20px;
 	color: #162657;
 }
 .feature .feature-content p{
@@ -198,7 +207,7 @@ header nav li a{
 footer{
     background-color: #292640;
     text-align: center;
-    padding: 100px 0 30px 0px;
+    padding: 100px 0 30px 0;
 }
 footer h1{
     color: white;
