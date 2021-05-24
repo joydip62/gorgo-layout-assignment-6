@@ -233,4 +233,20 @@ footer span{
     margin-top: 15px;
     font-size: 14px;
 }
+
+
+/*================ arrow starts=================*/
+footer a .arrow-up{
+    background-color: #8D8B98;
+    width: 1%;
+    border-radius: 50%;
+    padding: 20px;
+    color: #302D46;
+    float: right;
+    margin-right: 20px;
+}
+
+
+/*================arrow ends=================*/
+
 /*===============footer ends=========================*/
